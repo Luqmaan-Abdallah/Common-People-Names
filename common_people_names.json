@@ -1560,5 +1560,31 @@
             "Mamadu",
             "Mario"
         ]
+    },
+    "Guyana": {
+        "Female": [
+            "Anita",
+            "Bibi",
+            "Donna",
+            "Jennifer",
+            "Karen",
+            "Michelle",
+            "Natasha",
+            "Patricia",
+            "Sharon",
+            "Yvonne"
+        ],
+        "Male": [
+            "David",
+            "John",
+            "Joseph",
+            "Leon",
+            "Mark",
+            "Michael",
+            "Mohamed",
+            "Richard",
+            "Robert",
+            "Winston"
+        ]
     }
 }
