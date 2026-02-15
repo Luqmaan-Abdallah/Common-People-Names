@@ -1612,5 +1612,31 @@
             "Marc",
             "Pierre"
         ]
+    },
+    "Holy See": {
+        "Female": [
+            "Alessandra",
+            "Barbara",
+            "Charlotte",
+            "Francesca",
+            "Marija",
+            "Nathalie",
+            "Raffaella",
+            "Roberta",
+            "Simona",
+            "Stefania"
+        ],
+        "Male": [
+            "Alexander",
+            "Benedict",
+            "Clement",
+            "Gregory",
+            "Innocent",
+            "John",
+            "Leo",
+            "Pius",
+            "Stephen",
+            "Urban"
+        ]
     }
 }
