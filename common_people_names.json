@@ -1508,5 +1508,31 @@
             "Oscar",
             "Reilly"
         ]
+    },
+    "Guinea": {
+        "Female": [
+            "Clarice",
+            "Fatima",
+            "Fatoumata",
+            "Kadiadou",
+            "Konke",
+            "Koulako",
+            "Kourouma",
+            "Linda",
+            "Lune de vie",
+            "Samira"
+        ],
+        "Male": [
+            "Abdoulaye",
+            "Aboubacar",
+            "Alpha",
+            "Amadou",
+            "Boubacar",
+            "Ibrahima",
+            "Mamadou",
+            "Mohamed",
+            "Oumar",
+            "Ousmane"
+        ]
     }
 }
