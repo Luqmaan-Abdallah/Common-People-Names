@@ -1586,5 +1586,31 @@
             "Robert",
             "Winston"
         ]
+    },
+    "Haiti": {
+        "Female": [
+            "Carline",
+            "Daphney",
+            "Darline",
+            "Fabienne",
+            "Guerline",
+            "Jacqueline",
+            "Marie",
+            "Natacha",
+            "Nathalie",
+            "Rose"
+        ],
+        "Male": [
+            "Baptiste",
+            "Emmanuel",
+            "Frantz",
+            "James",
+            "Jean",
+            "Joseph",
+            "Junior",
+            "Louis",
+            "Marc",
+            "Pierre"
+        ]
     }
 }
