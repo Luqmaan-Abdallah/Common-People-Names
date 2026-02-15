@@ -1534,5 +1534,31 @@
             "Oumar",
             "Ousmane"
         ]
+    },
+    "Guinea-Bissau": {
+        "Female": [
+            "Aissatou",
+            "Ana",
+            "Domingas",
+            "Fatima",
+            "Fatoumata",
+            "Filomena",
+            "Isabel",
+            "Mária",
+            "Matilde",
+            "Suzi"
+        ],
+        "Male": [
+            "Alberto",
+            "António",
+            "Augusto",
+            "Carlos",
+            "Domingos",
+            "Fernando",
+            "Joao",
+            "José",
+            "Mamadu",
+            "Mario"
+        ]
     }
 }
