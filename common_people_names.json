@@ -1482,5 +1482,31 @@
             "Liam",
             "Luis"
         ]
+    },
+    "Guernsey": {
+        "Female": [
+            "Aimee",
+            "Brooke",
+            "Charlotte",
+            "Emily",
+            "Lottie",
+            "Megan",
+            "Mia",
+            "Phoebe",
+            "Sadie",
+            "Thea"
+        ],
+        "Male": [
+            "Adrien",
+            "Brendan",
+            "Cameron",
+            "Charlie",
+            "Dan",
+            "Ian",
+            "Matt",
+            "Noah",
+            "Oscar",
+            "Reilly"
+        ]
     }
 }
