@@ -2106,5 +2106,135 @@
             "Yousef",
             "Hassan"
         ]
+    },
+    "Kazakhstan": {
+        "Female": [
+            "Elena",
+            "Natalya",
+            "Tatyana",
+            "Olga",
+            "Irina",
+            "Svetlana",
+            "Nadezhda",
+            "Aygerim",
+            "Ekaterina",
+            "Galina"
+        ],
+        "Male": [
+            "Sergey",
+            "Vladimir",
+            "Aleksandr",
+            "Alexander",
+            "Ruslan",
+            "Andrey",
+            "Azamat",
+            "Viktor",
+            "Talgat",
+            "Nikolay"
+        ]
+    },
+    "Kenya": {
+        "Female": [
+            "Mary",
+            "Faith",
+            "Mercy",
+            "Sharon",
+            "Esther",
+            "Elizabeth",
+            "Jane",
+            "Grace",
+            "Ruth",
+            "Lucy"
+        ],
+        "Male": [
+            "John",
+            "Joseph",
+            "Peter",
+            "Brian",
+            "David",
+            "James",
+            "Samuel",
+            "Daniel",
+            "Stephen",
+            "Kelvin"
+        ]
+    },
+    "Kosovo": {
+        "Female": [
+            "Fatime",
+            "Emine",
+            "Ganimete",
+            "Shqipe",
+            "Merita",
+            "Sanije",
+            "Shpresa",
+            "Sevdije",
+            "Fatmire",
+            "Vlora"
+        ],
+        "Male": [
+            "Bekim",
+            "Bajram",
+            "Agim",
+            "Arben",
+            "Fatmir",
+            "Afrim",
+            "Besim",
+            "Ramadan",
+            "Naim",
+            "Agron"
+        ]
+    },
+    "Kuwait": {
+        "Female": [
+            "Fatima",
+            "Munira",
+            "Mona",
+            "Amal",
+            "Badriyah",
+            "Laila",
+            "Mariam",
+            "Ayesha",
+            "Zainab",
+            "Ibtisam"
+        ],
+        "Male": [
+            "Fahd",
+            "Badr",
+            "Hussein",
+            "Mohammad",
+            "Saud",
+            "Mubarak",
+            "Rashid",
+            "Adnan",
+            "Mishal",
+            "Salah"
+        ]
+    },
+    "Kyrgyzstan": {
+        "Female": [
+            "Kyzy",
+            "Gulmira",
+            "Aynura",
+            "Gulnara",
+            "Tatyana",
+            "Aygul",
+            "Natalya",
+            "Nazgul",
+            "Baktygul",
+            "Elena"
+        ],
+        "Male": [
+            "Uulu",
+            "Aleksandr",
+            "Nurlan",
+            "Sergey",
+            "Azamat",
+            "Nurbek",
+            "Vladimir",
+            "Ruslan",
+            "Aybek",
+            "Ulan"
+        ]
     }
 }
