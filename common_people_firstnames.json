@@ -2470,5 +2470,83 @@
             "Guy",
             "Marcel"
         ]
+    },
+    "Madagascar": {
+        "Female": [
+            "Marie",
+            "Nirina",
+            "Miora",
+            "Aina",
+            "Tiana",
+            "Hasina",
+            "Henintsoa",
+            "Lalaina",
+            "Narindra",
+            "Hanitriniaina"
+        ],
+        "Male": [
+            "Jean",
+            "Hery",
+            "Andry",
+            "Mamy",
+            "Ny",
+            "Zo",
+            "Heriniaina",
+            "Nomenjanahary",
+            "Toky",
+            "Rado"
+        ]
+    },
+    "Malawi": {
+        "Female": [
+            "Grace",
+            "Chimwemwe",
+            "Mercy",
+            "Martha",
+            "Memory",
+            "Mary",
+            "Alinafe",
+            "Esther",
+            "Ruth",
+            "Patricia"
+        ],
+        "Male": [
+            "Gift",
+            "Blessings",
+            "Chisomo",
+            "Emmanuel",
+            "Mphatso",
+            "Joseph",
+            "James",
+            "Peter",
+            "John",
+            "Innocent"
+        ]
+    },
+    "Malaysia": {
+        "Female": [
+            "Siti",
+            "Nur",
+            "Nor",
+            "Nurul",
+            "Cik",
+            "Noor",
+            "Puan",
+            "Siew",
+            "Fatimah",
+            "Yoke"
+        ],
+        "Male": [
+            "Mohamed",
+            "Muhammad",
+            "Mohamad",
+            "Encik",
+            "Muhamad",
+            "Ahmad",
+            "Abdul",
+            "Mohammad",
+            "Mohammed",
+            "Chee"
+        ]
     }
 }
