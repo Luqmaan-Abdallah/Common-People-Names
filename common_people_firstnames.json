@@ -2548,5 +2548,471 @@
             "Mohammed",
             "Chee"
         ]
+    },
+    "Maldives": {
+        "Female": [
+            "Aminath",
+            "Aishath",
+            "Fathimath",
+            "Mariyam",
+            "Hawwa",
+            "Fathmath",
+            "Khadeeja",
+            "Khadheeja",
+            "Shareefa",
+            "Zulaikha"
+        ],
+        "Male": [
+            "Mohamed",
+            "Ahmed",
+            "Ibrahim",
+            "Ali",
+            "Abdul",
+            "Abdulla",
+            "Hussain",
+            "Hassan",
+            "Adam",
+            "Ismail"
+        ]
+    },
+    "Mali": {
+        "Female": [
+            "Fatoumata",
+            "Mariam",
+            "Aminata",
+            "Hawa",
+            "Oumou",
+            "Kadiatou",
+            "Aïssata",
+            "Awa",
+            "Bintou",
+            "Fanta"
+        ],
+        "Male": [
+            "Moussa",
+            "Mamadou",
+            "Adama",
+            "Abdoulaye",
+            "Mohamed",
+            "Mahamadou",
+            "Amadou",
+            "Oumar",
+            "Ousmane",
+            "Souleymane"
+        ]
+    },
+    "Malta": {
+        "Female": [
+            "Maria",
+            "Anna",
+            "Mary",
+            "Carmen",
+            "Rita",
+            "Claire",
+            "Sarah",
+            "Stephanie",
+            "Daniela",
+            "Christine"
+        ],
+        "Male": [
+            "Joseph",
+            "John",
+            "Mark",
+            "Mario",
+            "David",
+            "Paul",
+            "Michael",
+            "Anthony",
+            "Joe",
+            "Charles"
+        ]
+    },
+    "Marshall Islands": {
+        "Female": [
+            "Mary",
+            "Lisa",
+            "Maria",
+            "Sandy",
+            "Linda",
+            "Ann",
+            "Ruth",
+            "Jenny",
+            "Lynn",
+            "Martha"
+        ],
+        "Male": [
+            "Junior",
+            "John",
+            "David",
+            "Danny",
+            "Johnny",
+            "Joseph",
+            "Tony",
+            "Richard",
+            "Paul",
+            "Peter"
+        ]
+    },
+    "Martinique": {
+        "Female": [
+            "Marie",
+            "Jeanne",
+            "Monique",
+            "Christiane",
+            "Marie-Thérèse",
+            "Denise",
+            "Josiane",
+            "Jacqueline",
+            "Catherine",
+            "Nathalie"
+        ],
+        "Male": [
+            "Joseph",
+            "Georges",
+            "Francis",
+            "Jean",
+            "Michel",
+            "Thierry",
+            "Claude",
+            "Maurice",
+            "Roger",
+            "Dominique"
+        ]
+    },
+    "Mauritania": {
+        "Female": [
+            "Mariem",
+            "Fatimetou",
+            "Aminetou",
+            "Khadijetou",
+            "Zeinebou",
+            "Vatimetou",
+            "Aichetou",
+            "Oum",
+            "Hawa",
+            "Fatimata"
+        ],
+        "Male": [
+            "Mohamed",
+            "Sidi",
+            "Ahmed",
+            "Cheikh",
+            "Brahim",
+            "Mamadou",
+            "Oumar",
+            "Amadou",
+            "Abdellahi",
+            "Moussa"
+        ]
+    },
+    "Mauritius": {
+        "Female": [
+            "Marie",
+            "Bibi",
+            "Beebee",
+            "Anne",
+            "Lutchmee",
+            "Indira",
+            "Mary",
+            "Geeta",
+            "Rajwantee",
+            "Nirmala"
+        ],
+        "Male": [
+            "Jean",
+            "Louis",
+            "Abdool",
+            "Mohammad",
+            "Joseph",
+            "Jacques",
+            "Pierre",
+            "Mohamed",
+            "Michel",
+            "Anand"
+        ]
+    },
+    "Mayotte": {
+        "Female": [
+            "Fatima",
+            "Mariama",
+            "Mariame",
+            "Amina",
+            "Marie",
+            "Hadidja",
+            "Echati",
+            "Halima",
+            "Zaina",
+            "Roukia"
+        ],
+        "Male": [
+            "Ali",
+            "Said",
+            "Madi",
+            "Abdou",
+            "Abdallah",
+            "Ahamadi",
+            "Houmadi",
+            "Ousseni",
+            "Ahmed",
+            "Jean"
+        ]
+    },
+    "Mexico": {
+        "Female": [
+            "Maria",
+            "Ana",
+            "Rosa",
+            "Juana",
+            "Martha",
+            "Guadalupe",
+            "Margarita",
+            "Claudia",
+            "Laura",
+            "Veronica"
+        ],
+        "Male": [
+            "Jose",
+            "Juan",
+            "Luis",
+            "Francisco",
+            "Jesus",
+            "Jorge",
+            "Miguel",
+            "Carlos",
+            "Pedro",
+            "Manuel"
+        ]
+    },
+    "Micronesia": {
+        "Female": [
+            "Mary",
+            "Linda",
+            "Maria",
+            "Elizabeth",
+            "Susan",
+            "Moria",
+            "Grace",
+            "Yvonne",
+            "Dolores",
+            "Oya"
+        ],
+        "Male": [
+            "John",
+            "David",
+            "James",
+            "Robert",
+            "Joe",
+            "Peter",
+            "Johnny",
+            "Anthony",
+            "Larry",
+            "Steve"
+        ]
+    },
+    "Moldova": {
+        "Female": [
+            "Maria",
+            "Elena",
+            "Valentina",
+            "Tatiana",
+            "Olga",
+            "Natalia",
+            "Nina",
+            "Ana",
+            "Svetlana",
+            "Vera"
+        ],
+        "Male": [
+            "Ion",
+            "Vasile",
+            "Mihail",
+            "Ivan",
+            "Gheorghe",
+            "Vladimir",
+            "Victor",
+            "Nicolae",
+            "Andrei",
+            "Petru"
+        ]
+    },
+    "Monaco": {
+        "Female": [
+            "Maria",
+            "Catherine",
+            "Isabelle",
+            "Nathalie",
+            "Anne",
+            "Christine",
+            "Martine",
+            "Sophie",
+            "Marie",
+            "Anna"
+        ],
+        "Male": [
+            "Philippe",
+            "David",
+            "Jean",
+            "Robert",
+            "Eric",
+            "Patrick",
+            "Andrea",
+            "Christian",
+            "Michel",
+            "Pierre"
+        ]
+    },
+    "Mongolia": {
+        "Female": [
+            "Khulan",
+            "Altantsetseg",
+            "Bolormaa",
+            "Oyuunchimeg",
+            "Uyanga",
+            "Enkhjargal",
+            "Solongo",
+            "Khongorzul",
+            "Erdenechimeg",
+            "Enkhtuyaa"
+        ],
+        "Male": [
+            "Temüülen",
+            "Tögöldör",
+            "Bilgüün",
+            "Otgonbayar",
+            "Batbayar",
+            "Dölgöön",
+            "Gantulga",
+            "Ganbold",
+            "Ganzorig",
+            "Ankhbayar"
+        ]
+    },
+    "Montenegro": {
+        "Female": [
+            "Milica",
+            "Radmila",
+            "Danica",
+            "Jelena",
+            "Zorka",
+            "Marija",
+            "Dragica",
+            "Ljubica",
+            "Ljiljana",
+            "Nada"
+        ],
+        "Male": [
+            "Dragan",
+            "Milan",
+            "Zoran",
+            "Nikola",
+            "Milorad",
+            "Slobodan",
+            "Branko",
+            "Petar",
+            "Miodrag",
+            "Veselin"
+        ]
+    },
+    "Montserrat": {
+        "Female": [
+            "Mary",
+            "Sarah",
+            "Catherine",
+            "Margaret",
+            "Ann",
+            "Elizabeth",
+            "Josephine",
+            "Jennifer",
+            "Veronica",
+            "Cynthia"
+        ],
+        "Male": [
+            "John",
+            "Joseph",
+            "James",
+            "William",
+            "George",
+            "Thomas",
+            "Charles",
+            "David",
+            "Peter",
+            "Samuel"
+        ]
+    },
+    "Morocco": {
+        "Female": [
+            "Fatima",
+            "Khadija",
+            "Imane",
+            "Nadia",
+            "Zineb",
+            "Naima",
+            "Amina",
+            "Aicha",
+            "Sara",
+            "Malika"
+        ],
+        "Male": [
+            "Mohamed",
+            "Mohammed",
+            "Ahmed",
+            "Youssef",
+            "Said",
+            "Rachid",
+            "Hassan",
+            "Mustapha",
+            "Hicham",
+            "Khalid"
+        ]
+    },
+    "Mozambique": {
+        "Female": [
+            "Mária",
+            "Ana",
+            "Isabel",
+            "Sandrêa",
+            "Paula",
+            "Sheila",
+            "Sonia",
+            "Carla"
+        ],
+        "Male": [
+            "Jose",
+            "António",
+            "Carlos",
+            "Manuel",
+            "Joao",
+            "Paulo",
+            "Pedro",
+            "Luis",
+            "Francisco",
+            "Sérgio"
+        ]
+    },
+    "Myanmar": {
+        "Female": [
+            "Ei",
+            "Khaing",
+            "Khine",
+            "Thin",
+            "Mon",
+            "Nwe",
+            "Khin",
+            "Yu",
+            "Mi",
+            "Lei"
+        ],
+        "Male": [
+            "Kyaw",
+            "Aung",
+            "Zaw",
+            "Tun",
+            "Phyo",
+            "Hein",
+            "Thant",
+            "Maung",
+            "Sai",
+            "Min"
+        ]
     }
 }

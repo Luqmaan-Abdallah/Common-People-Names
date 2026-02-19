@@ -176,27 +176,27 @@ Below is a complete table of all 249 countries and territories from the ISO 3166
 | Lithuania | LT | LTU | ✅ |
 | Luxembourg | LU | LUX | ✅ |
 | Macao | MO | MAC | ❌ |
-| Madagascar | MG | MDG | ❌ |
-| Malawi | MW | MWI | ❌ |
-| Malaysia | MY | MYS | ❌ |
-| Maldives | MV | MDV | ❌ |
-| Mali | ML | MLI | ❌ |
-| Malta | MT | MLT | ❌ |
-| Marshall Islands | MH | MHL | ❌ |
-| Martinique | MQ | MTQ | ❌ |
-| Mauritania | MR | MRT | ❌ |
-| Mauritius | MU | MUS | ❌ |
-| Mayotte | YT | MYT | ❌ |
-| Mexico | MX | MEX | ❌ |
-| Micronesia (Federated States of) | FM | FSM | ❌ |
-| Moldova (Republic of) | MD | MDA | ❌ |
-| Monaco | MC | MCO | ❌ |
-| Mongolia | MN | MNG | ❌ |
-| Montenegro | ME | MNE | ❌ |
-| Montserrat | MS | MSR | ❌ |
-| Morocco | MA | MAR | ❌ |
-| Mozambique | MZ | MOZ | ❌ |
-| Myanmar | MM | MMR | ❌ |
+| Madagascar | MG | MDG | ✅ |
+| Malawi | MW | MWI | ✅ |
+| Malaysia | MY | MYS | ✅ |
+| Maldives | MV | MDV | ✅ |
+| Mali | ML | MLI | ✅ |
+| Malta | MT | MLT | ✅ |
+| Marshall Islands | MH | MHL | ✅ |
+| Martinique | MQ | MTQ | ✅ |
+| Mauritania | MR | MRT | ✅ |
+| Mauritius | MU | MUS | ✅ |
+| Mayotte | YT | MYT | ✅ |
+| Mexico | MX | MEX | ✅ |
+| Micronesia (Federated States of) | FM | FSM | ✅ |
+| Moldova (Republic of) | MD | MDA | ✅ |
+| Monaco | MC | MCO | ✅ |
+| Mongolia | MN | MNG | ✅ |
+| Montenegro | ME | MNE | ✅ |
+| Montserrat | MS | MSR | ✅ |
+| Morocco | MA | MAR | ✅ |
+| Mozambique | MZ | MOZ | ✅ |
+| Myanmar | MM | MMR | ✅ |
 | Namibia | NA | NAM | ❌ |
 | Nauru | NR | NRU | ❌ |
 | Nepal | NP | NPL | ❌ |
