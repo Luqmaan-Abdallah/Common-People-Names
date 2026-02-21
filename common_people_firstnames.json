@@ -1,80 +1,136 @@
 {
   "AFG": {
-    "Female": [
-      "Amina",
-      "Farzana",
-      "Fatima",
-      "Khadija",
-      "Maryam",
-      "Roshan",
-      "Sakina",
-      "Samira",
-      "Zahra",
-      "Zaynab"
+    "country": "Afghanistan",
+    "region": ["Asia", "South Asia"],
+    "female": [
+      {"name": "Amina", "nameOrigin": ["Arabic"], "popularity": "1.10%"},
+      {"name": "Farzana", "nameOrigin": ["Persian"], "popularity": "0.85%"},
+      {"name": "Fatima", "nameOrigin": ["Arabic"], "popularity": "1.45%"},
+      {"name": "Khadija", "nameOrigin": ["Arabic"], "popularity": "0.92%"},
+      {"name": "Maryam", "nameOrigin": ["Aramaic", "Arabic"], "popularity": "1.20%"},
+      {"name": "Roshan", "nameOrigin": ["Persian"], "popularity": "0.60%"},
+      {"name": "Sakina", "nameOrigin": ["Arabic"], "popularity": "0.75%"},
+      {"name": "Samira", "nameOrigin": ["Arabic"], "popularity": "0.68%"},
+      {"name": "Zahra", "nameOrigin": ["Arabic"], "popularity": "1.30%"},
+      {"name": "Zaynab", "nameOrigin": ["Arabic"], "popularity": "1.05%"}
     ],
-    "Male": [
-      "Abdul",
-      "Ahmad",
-      "Amir",
-      "Ghulam",
-      "Hamidullah",
-      "Karim",
-      "Muhammad",
-      "Sulaiman",
-      "Siddiqah",
-      "Sayed"
+    "male": [
+      {"name": "Abdul", "nameOrigin": ["Arabic"], "popularity": "1.50%"},
+      {"name": "Ahmad", "nameOrigin": ["Arabic"], "popularity": "1.85%"},
+      {"name": "Amir", "nameOrigin": ["Arabic", "Persian"], "popularity": "0.95%"},
+      {"name": "Ghulam", "nameOrigin": ["Arabic"], "popularity": "0.70%"},
+      {"name": "Hamidullah", "nameOrigin": ["Arabic"], "popularity": "0.65%"},
+      {"name": "Karim", "nameOrigin": ["Arabic"], "popularity": "0.88%"},
+      {"name": "Muhammad", "nameOrigin": ["Arabic"], "popularity": "2.40%"},
+      {"name": "Sulaiman", "nameOrigin": ["Hebrew", "Arabic"], "popularity": "0.78%"},
+      {"name": "Siddiq", "nameOrigin": ["Arabic"], "popularity": "0.55%"},
+      {"name": "Sayed", "nameOrigin": ["Arabic"], "popularity": "1.15%"}
+    ],
+    "unisex": [
+      {"name": "Aryana", "nameOrigin": ["Indo-Iranian"], "popularity": "0.35%", "genderUsage": "80:20"},
+      {"name": "Nilofer", "nameOrigin": ["Persian"], "popularity": "0.30%", "genderUsage": "90:10"}
+    ],
+    "middleNames": [
+      {"name": "Jan", "nameOrigin": ["Persian"], "popularity": "1.20%"},
+      {"name": "Khan", "nameOrigin": ["Pashto", "Turkic"], "popularity": "1.50%"},
+      {"name": "Shah", "nameOrigin": ["Persian"], "popularity": "0.90%"},
+      {"name": "Gul", "nameOrigin": ["Persian", "Pashto"], "popularity": "0.80%"}
+    ],
+    "surnames": [
+      {"name": "Ahmadi", "nameOrigin": ["Persian"], "popularity": "0.95%"},
+      {"name": "Popalzai", "nameOrigin": ["Pashto"], "popularity": "0.45%"},
+      {"name": "Durrani", "nameOrigin": ["Pashto"], "popularity": "0.50%"},
+      {"name": "Sadat", "nameOrigin": ["Arabic"], "popularity": "0.70%"},
+      {"name": "Barakzai", "nameOrigin": ["Pashto"], "popularity": "0.55%"},
+      {"name": "Mohammadi", "nameOrigin": ["Arabic"], "popularity": "1.10%"}
     ]
   },
   "ALB": {
-    "Female": [
-      "Ajla",
-      "Amaris",
-      "Ambra",
-      "Amelia",
-      "Amelja",
-      "Aria",
-      "Klea",
-      "Leandra",
-      "Melisa",
-      "Reina"
+    "country": "Albania",
+    "region": ["Europe", "Balkans", "South Europe"],
+    "female": [
+      {"name": "Ajla", "nameOrigin": ["Arabic", "Bosnian"], "popularity": "1.20%"},
+      {"name": "Amaris", "nameOrigin": ["Hebrew"], "popularity": "0.45%"},
+      {"name": "Ambra", "nameOrigin": ["Italian", "Arabic"], "popularity": "0.60%"},
+      {"name": "Amelia", "nameOrigin": ["Germanic"], "popularity": "0.95%"},
+      {"name": "Amelja", "nameOrigin": ["Germanic", "Albanian"], "popularity": "0.55%"},
+      {"name": "Aria", "nameOrigin": ["Albanian", "Persian", "Italian"], "popularity": "1.10%"},
+      {"name": "Klea", "nameOrigin": ["Greek", "Albanian"], "popularity": "0.85%"},
+      {"name": "Leandra", "nameOrigin": ["Greek", "Latin"], "popularity": "0.50%"},
+      {"name": "Melisa", "nameOrigin": ["Greek"], "popularity": "0.90%"},
+      {"name": "Reina", "nameOrigin": ["Latin", "Spanish", "Yiddish"], "popularity": "0.40%"}
     ],
-    "Male": [
-      "Amar",
-      "Alteo",
-      "Aron",
-      "Dion",
-      "Joel",
-      "Luis",
-      "Mateo",
-      "Noel",
-      "Roan",
-      "Roel"
+    "male": [
+      {"name": "Amar", "nameOrigin": ["Arabic"], "popularity": "1.15%"},
+      {"name": "Alteo", "nameOrigin": ["Albanian"], "popularity": "0.75%"},
+      {"name": "Aron", "nameOrigin": ["Hebrew"], "popularity": "0.80%"},
+      {"name": "Dion", "nameOrigin": ["Greek"], "popularity": "0.85%"},
+      {"name": "Joel", "nameOrigin": ["Hebrew"], "popularity": "0.70%"},
+      {"name": "Luis", "nameOrigin": ["Germanic", "Spanish"], "popularity": "0.65%"},
+      {"name": "Mateo", "nameOrigin": ["Hebrew", "Spanish", "Italian"], "popularity": "1.30%"},
+      {"name": "Noel", "nameOrigin": ["French", "Latin"], "popularity": "1.10%"},
+      {"name": "Roan", "nameOrigin": ["Gaelic", "Albanian"], "popularity": "0.55%"},
+      {"name": "Roel", "nameOrigin": ["Dutch", "Spanish"], "popularity": "0.45%"}
+    ],
+    "unisex": [
+      {"name": "Eri", "nameOrigin": ["Albanian"], "popularity": "0.30%", "genderUsage": "60:40"},
+      {"name": "Dritë", "nameOrigin": ["Albanian"], "popularity": "0.25%", "genderUsage": "50:50"}
+    ],
+    "middleNames": [
+      {"name": "Pashaj", "nameOrigin": ["Albanian", "Turkish"], "popularity": "0.35%"},
+      {"name": "Bej", "nameOrigin": ["Turkish"], "popularity": "0.40%"}
+    ],
+    "surnames": [
+      {"name": "Hoxha", "nameOrigin": ["Albanian", "Turkish"], "popularity": "2.10%"},
+      {"name": "Shehu", "nameOrigin": ["Arabic", "Albanian"], "popularity": "1.40%"},
+      {"name": "Prifti", "nameOrigin": ["Albanian", "Greek"], "popularity": "1.15%"},
+      {"name": "Çullhaj", "nameOrigin": ["Albanian"], "popularity": "0.60%"},
+      {"name": "Leka", "nameOrigin": ["Albanian", "Greek"], "popularity": "0.85%"},
+      {"name": "Gjoni", "nameOrigin": ["Hebrew", "Albanian"], "popularity": "1.05%"}
     ]
   },
   "DZA": {
-    "Female": [
-      "Ashraqat",
-      "Aya",
-      "Dalal",
-      "Doha",
-      "Fajr",
-      "Farida",
-      "Fatin",
-      "Fatma",
-      "Sahar",
-      "Shaimaa"
+    "country": "Algeria",
+    "region": ["Africa", "North Africa"],
+    "female": [
+      {"name": "Ashraqat", "nameOrigin": ["Arabic"], "popularity": "0.35%"},
+      {"name": "Aya", "nameOrigin": ["Arabic"], "popularity": "1.40%"},
+      {"name": "Dalal", "nameOrigin": ["Arabic"], "popularity": "0.50%"},
+      {"name": "Doha", "nameOrigin": ["Arabic"], "popularity": "0.65%"},
+      {"name": "Fajr", "nameOrigin": ["Arabic"], "popularity": "0.30%"},
+      {"name": "Farida", "nameOrigin": ["Arabic"], "popularity": "0.85%"},
+      {"name": "Fatin", "nameOrigin": ["Arabic"], "popularity": "0.45%"},
+      {"name": "Fatma", "nameOrigin": ["Arabic", "Berber"], "popularity": "2.10%"},
+      {"name": "Sahar", "nameOrigin": ["Arabic"], "popularity": "0.95%"},
+      {"name": "Shaimaa", "nameOrigin": ["Arabic"], "popularity": "1.15%"}
     ],
-    "Male": [
-      "Ahmad",
-      "Bilal",
-      "Hamza",
-      "Khalid",
-      "Mahmoud",
-      "Muhammad",
-      "Mustafa",
-      "Taha",
-      "Yassin",
-      "Youssef"
+    "male": [
+      {"name": "Ahmad", "nameOrigin": ["Arabic"], "popularity": "1.25%"},
+      {"name": "Bilal", "nameOrigin": ["Arabic"], "popularity": "1.10%"},
+      {"name": "Hamza", "nameOrigin": ["Arabic"], "popularity": "1.55%"},
+      {"name": "Khalid", "nameOrigin": ["Arabic"], "popularity": "0.90%"},
+      {"name": "Mahmoud", "nameOrigin": ["Arabic"], "popularity": "0.80%"},
+      {"name": "Muhammad", "nameOrigin": ["Arabic"], "popularity": "2.80%"},
+      {"name": "Mustafa", "nameOrigin": ["Arabic"], "popularity": "1.30%"},
+      {"name": "Taha", "nameOrigin": ["Arabic"], "popularity": "0.75%"},
+      {"name": "Yassin", "nameOrigin": ["Arabic"], "popularity": "1.45%"},
+      {"name": "Youssef", "nameOrigin": ["Hebrew", "Arabic"], "popularity": "1.90%"}
+    ],
+    "unisex": [
+      {"name": "Anis", "nameOrigin": ["Arabic"], "popularity": "0.50%", "genderUsage": "85:15"},
+      {"name": "Rayan", "nameOrigin": ["Arabic", "Persian"], "popularity": "0.80%", "genderUsage": "70:30"}
+    ],
+    "middleNames": [
+      {"name": "Eddine", "nameOrigin": ["Arabic"], "popularity": "1.50%"},
+      {"name": "Ould", "nameOrigin": ["Arabic", "Berber"], "popularity": "0.60%"}
+    ],
+    "surnames": [
+      {"name": "Mansouri", "nameOrigin": ["Arabic"], "popularity": "0.75%"},
+      {"name": "Brahimi", "nameOrigin": ["Arabic"], "popularity": "0.68%"},
+      {"name": "Belkaid", "nameOrigin": ["Arabic"], "popularity": "0.55%"},
+      {"name": "Haddad", "nameOrigin": ["Arabic", "Syriac"], "popularity": "0.82%"},
+      {"name": "Zidane", "nameOrigin": ["Arabic", "Berber"], "popularity": "0.40%"},
+      {"name": "Abbas", "nameOrigin": ["Arabic"], "popularity": "0.70%"}
     ]
   },
   "AND": {
