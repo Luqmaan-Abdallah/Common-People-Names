@@ -30,7 +30,7 @@ The package exports an object with the following structure:
 
 ```javascript
 {
-  "CountryName": {
+  "Alpha3Code": {
     "Male": ["Name1", "Name2", "Name3", ...],
     "Female": ["Name1", "Name2", "Name3", ...]
   },
@@ -40,6 +40,7 @@ The package exports an object with the following structure:
 ## Included Countries (ISO 3166-1)
 
 Below is a complete table of all 249 countries and territories from the ISO 3166-1 standard, including their alpha-2 and alpha-3 codes. A checkmark (✅) in the "In Dataset" column indicates that the country is currently included in the dataset.
+
 
 | Country Name | Alpha-2 | Alpha-3 | In Dataset |
 |--------------|:-------:|:-------:|:----------:|
@@ -162,14 +163,14 @@ Below is a complete table of all 249 countries and territories from the ISO 3166
 | Kenya | KE | KEN | ✅ |
 | Kiribati | KI | KIR | ❌ |
 | Korea (Democratic People's Republic of) | KP | PRK | ❌ |
-| Korea (Republic of) | KR | KOR | ❌ |
-| Kosovo | XK | XKX | ✅ |
+| Korea (Republic of) | KR | KOR | ✅ |
+| Kosovo | XK | XKS | ✅ |
 | Kuwait | KW | KWT | ✅ |
 | Kyrgyzstan | KG | KGZ | ✅ |
 | Lao People's Democratic Republic | LA | LAO | ✅ |
 | Latvia | LV | LVA | ✅ |
 | Lebanon | LB | LBN | ✅ |
-| Lesotho | LS | LSO | ❌ |
+| Lesotho | LS | LSO | ✅ |
 | Liberia | LR | LBR | ✅ |
 | Libya | LY | LBY | ✅ |
 | Liechtenstein | LI | LIE | ✅ |
@@ -197,99 +198,99 @@ Below is a complete table of all 249 countries and territories from the ISO 3166
 | Morocco | MA | MAR | ✅ |
 | Mozambique | MZ | MOZ | ✅ |
 | Myanmar | MM | MMR | ✅ |
-| Namibia | NA | NAM | ❌ |
-| Nauru | NR | NRU | ❌ |
-| Nepal | NP | NPL | ❌ |
-| Netherlands | NL | NLD | ❌ |
-| New Caledonia | NC | NCL | ❌ |
-| New Zealand | NZ | NZL | ❌ |
-| Nicaragua | NI | NIC | ❌ |
-| Niger | NE | NER | ❌ |
-| Nigeria | NG | NGA | ❌ |
-| Niue | NU | NIU | ❌ |
-| Norfolk Island | NF | NFK | ❌ |
-| North Macedonia | MK | MKD | ❌ |
-| Northern Mariana Islands | MP | MNP | ❌ |
-| Norway | NO | NOR | ❌ |
-| Oman | OM | OMN | ❌ |
-| Pakistan | PK | PAK | ❌ |
-| Palau | PW | PLW | ❌ |
-| Palestine, State of | PS | PSE | ❌ |
-| Panama | PA | PAN | ❌ |
-| Papua New Guinea | PG | PNG | ❌ |
-| Paraguay | PY | PRY | ❌ |
-| Peru | PE | PER | ❌ |
-| Philippines | PH | PHL | ❌ |
-| Pitcairn | PN | PCN | ❌ |
-| Poland | PL | POL | ❌ |
-| Portugal | PT | PRT | ❌ |
-| Puerto Rico | PR | PRI | ❌ |
-| Qatar | QA | QAT | ❌ |
-| Réunion | RE | REU | ❌ |
-| Romania | RO | ROU | ❌ |
-| Russian Federation | RU | RUS | ❌ |
-| Rwanda | RW | RWA | ❌ |
-| Saint Barthélemy | BL | BLM | ❌ |
-| Saint Helena, Ascension and Tristan da Cunha | SH | SHN | ❌ |
-| Saint Kitts and Nevis | KN | KNA | ❌ |
-| Saint Lucia | LC | LCA | ❌ |
-| Saint Martin (French part) | MF | MAF | ❌ |
-| Saint Pierre and Miquelon | PM | SPM | ❌ |
-| Saint Vincent and the Grenadines | VC | VCT | ❌ |
-| Samoa | WS | WSM | ❌ |
-| San Marino | SM | SMR | ❌ |
-| Sao Tome and Principe | ST | STP | ❌ |
-| Saudi Arabia | SA | SAU | ❌ |
-| Senegal | SN | SEN | ❌ |
-| Serbia | RS | SRB | ❌ |
-| Seychelles | SC | SYC | ❌ |
-| Sierra Leone | SL | SLE | ❌ |
-| Singapore | SG | SGP | ❌ |
-| Sint Maarten (Dutch part) | SX | SXM | ❌ |
-| Slovakia | SK | SVK | ❌ |
-| Slovenia | SI | SVN | ❌ |
-| Solomon Islands | SB | SLB | ❌ |
-| Somalia | SO | SOM | ❌ |
-| South Africa | ZA | ZAF | ❌ |
-| South Georgia and the South Sandwich Islands | GS | SGS | ❌ |
-| South Sudan | SS | SSD | ❌ |
-| Spain | ES | ESP | ❌ |
-| Sri Lanka | LK | LKA | ❌ |
-| Sudan | SD | SDN | ❌ |
-| Suriname | SR | SUR | ❌ |
-| Svalbard and Jan Mayen | SJ | SJM | ❌ |
-| Sweden | SE | SWE | ❌ |
-| Switzerland | CH | CHE | ❌ |
-| Syrian Arab Republic | SY | SYR | ❌ |
-| Taiwan (Province of China) | TW | TWN | ❌ |
-| Tajikistan | TJ | TJK | ❌ |
-| Tanzania, United Republic of | TZ | TZA | ❌ |
-| Thailand | TH | THA | ❌ |
-| Timor-Leste | TL | TLS | ❌ |
-| Togo | TG | TGO | ❌ |
-| Tokelau | TK | TKL | ❌ |
-| Tonga | TO | TON | ❌ |
-| Trinidad and Tobago | TT | TTO | ❌ |
-| Tunisia | TN | TUN | ❌ |
-| Turkey | TR | TUR | ❌ |
-| Turkmenistan | TM | TKM | ❌ |
-| Turks and Caicos Islands | TC | TCA | ❌ |
-| Tuvalu | TV | TUV | ❌ |
-| Uganda | UG | UGA | ❌ |
-| Ukraine | UA | UKR | ❌ |
-| United Arab Emirates | AE | ARE | ❌ |
-| United Kingdom of Great Britain and Northern Ireland | GB | GBR | ❌ |
-| United States of America | US | USA | ❌ |
-| United States Minor Outlying Islands | UM | UMI | ❌ |
-| Uruguay | UY | URY | ❌ |
-| Uzbekistan | UZ | UZB | ❌ |
-| Vanuatu | VU | VUT | ❌ |
-| Venezuela (Bolivarian Republic of) | VE | VEN | ❌ |
-| Viet Nam | VN | VNM | ❌ |
-| Virgin Islands (British) | VG | VGB | ❌ |
-| Virgin Islands (U.S.) | VI | VIR | ❌ |
-| Wallis and Futuna | WF | WLF | ❌ |
-| Western Sahara | EH | ESH | ❌ |
-| Yemen | YE | YEM | ❌ |
-| Zambia | ZM | ZMB | ❌ |
-| Zimbabwe | ZW | ZWE | ❌ |
+| Namibia | NA | NAM | ✅ |
+| Nauru | NR | NRU | ✅ |
+| Nepal | NP | NPL | ✅ |
+| Netherlands | NL | NLD | ✅ |
+| New Caledonia | NC | NCL | ✅ |
+| New Zealand | NZ | NZL | ✅ |
+| Nicaragua | NI | NIC | ✅ |
+| Niger | NE | NER | ✅ |
+| Nigeria | NG | NGA | ✅ |
+| Niue | NU | NIU | ✅ |
+| Norfolk Island | NF | NFK | ✅ |
+| North Macedonia | MK | MKD | ✅ |
+| Northern Mariana Islands | MP | MNP | ✅ |
+| Norway | NO | NOR | ✅ |
+| Oman | OM | OMN | ✅ |
+| Pakistan | PK | PAK | ✅ |
+| Palau | PW | PLW | ✅ |
+| Palestine, State of | PS | PSE | ✅ |
+| Panama | PA | PAN | ✅ |
+| Papua New Guinea | PG | PNG | ✅ |
+| Paraguay | PY | PRY | ✅ |
+| Peru | PE | PER | ✅ |
+| Philippines | PH | PHL | ✅ |
+| Pitcairn | PN | PCN | ✅ |
+| Poland | PL | POL | ✅ |
+| Portugal | PT | PRT | ✅ |
+| Puerto Rico | PR | PRI | ✅ |
+| Qatar | QA | QAT | ✅ |
+| Réunion | RE | REU | ✅ |
+| Romania | RO | ROU | ✅ |
+| Russian Federation | RU | RUS | ✅ |
+| Rwanda | RW | RWA | ✅ |
+| Saint Barthélemy | BL | BLM | ✅ |
+| Saint Helena, Ascension and Tristan da Cunha | SH | SHN | ✅ |
+| Saint Kitts and Nevis | KN | KNA | ✅ |
+| Saint Lucia | LC | LCA | ✅ |
+| Saint Martin (French part) | MF | MAF | ✅ |
+| Saint Pierre and Miquelon | PM | SPM | ✅ |
+| Saint Vincent and the Grenadines | VC | VCT | ✅ |
+| Samoa | WS | WSM | ✅ |
+| San Marino | SM | SMR | ✅ |
+| Sao Tome and Principe | ST | STP | ✅ |
+| Saudi Arabia | SA | SAU | ✅ |
+| Senegal | SN | SEN | ✅ |
+| Serbia | RS | SRB | ✅ |
+| Seychelles | SC | SYC | ✅ |
+| Sierra Leone | SL | SLE | ✅ |
+| Singapore | SG | SGP | ✅ |
+| Sint Maarten (Dutch part) | SX | SXM | ✅ |
+| Slovakia | SK | SVK | ✅ |
+| Slovenia | SI | SVN | ✅ |
+| Solomon Islands | SB | SLB | ✅ |
+| Somalia | SO | SOM | ✅ |
+| South Africa | ZA | ZAF | ✅ |
+| South Georgia and the South Sandwich Islands | GS | SGS | ✅ |
+| South Sudan | SS | SSD | ✅ |
+| Spain | ES | ESP | ✅ |
+| Sri Lanka | LK | LKA | ✅ |
+| Sudan | SD | SDN | ✅ |
+| Suriname | SR | SUR | ✅ |
+| Svalbard and Jan Mayen | SJ | SJM | ✅ |
+| Sweden | SE | SWE | ✅ |
+| Switzerland | CH | CHE | ✅ |
+| Syrian Arab Republic | SY | SYR | ✅ |
+| Taiwan (Province of China) | TW | TWN | ✅ |
+| Tajikistan | TJ | TJK | ✅ |
+| Tanzania, United Republic of | TZ | TZA | ✅ |
+| Thailand | TH | THA | ✅ |
+| Timor-Leste | TL | TLS | ✅ |
+| Togo | TG | TGO | ✅ |
+| Tokelau | TK | TKL | ✅ |
+| Tonga | TO | TON | ✅ |
+| Trinidad and Tobago | TT | TTO | ✅ |
+| Tunisia | TN | TUN | ✅ |
+| Turkey | TR | TUR | ✅ |
+| Turkmenistan | TM | TKM | ✅ |
+| Turks and Caicos Islands | TC | TCA | ✅ |
+| Tuvalu | TV | TUV | ✅ |
+| Uganda | UG | UGA | ✅ |
+| Ukraine | UA | UKR | ✅ |
+| United Arab Emirates | AE | ARE | ✅ |
+| United Kingdom of Great Britain and Northern Ireland | GB | GBR | ✅ |
+| United States of America | US | USA | ✅ |
+| United States Minor Outlying Islands | UM | UMI | ✅ |
+| Uruguay | UY | URY | ✅ |
+| Uzbekistan | UZ | UZB | ✅ |
+| Vanuatu | VU | VUT | ✅ |
+| Venezuela (Bolivarian Republic of) | VE | VEN | ✅ |
+| Viet Nam | VN | VNM | ✅ |
+| Virgin Islands (British) | VG | VGB | ✅ |
+| Virgin Islands (U.S.) | VI | VIR | ✅ |
+| Wallis and Futuna | WF | WLF | ✅ |
+| Western Sahara | EH | ESH | ✅ |
+| Yemen | YE | YEM | ✅ |
+| Zambia | ZM | ZMB | ✅ |
+| Zimbabwe | ZW | ZWE | ✅ |
