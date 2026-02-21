@@ -1613,32 +1613,6 @@
       "Pierre"
     ]
   },
-  "VAT": {
-    "Female": [
-      "Alessandra",
-      "Barbara",
-      "Charlotte",
-      "Francesca",
-      "Marija",
-      "Nathalie",
-      "Raffaella",
-      "Roberta",
-      "Simona",
-      "Stefania"
-    ],
-    "Male": [
-      "Alexander",
-      "Benedict",
-      "Clement",
-      "Gregory",
-      "Innocent",
-      "John",
-      "Leo",
-      "Pius",
-      "Stephen",
-      "Urban"
-    ]
-  },
   "HND": {
     "Female": [
       "Alba",
@@ -1977,32 +1951,6 @@
       "Yao"
     ]
   },
-  "Jalisco": {
-    "Female": [
-      "Maria",
-      "Ana",
-      "Martha",
-      "Rosa",
-      "Claudia",
-      "Laura",
-      "Juana",
-      "Veronica",
-      "Teresa",
-      "Luz"
-    ],
-    "Male": [
-      "Jose",
-      "Juan",
-      "Luis",
-      "Francisco",
-      "Jorge",
-      "Miguel",
-      "Carlos",
-      "Jesus",
-      "Salvador",
-      "Victor"
-    ]
-  },
   "JAM": {
     "Female": [
       "Gloria",
@@ -2027,32 +1975,6 @@
       "Charles",
       "William",
       "Samuel"
-    ]
-  },
-  "Jammu and Kashmir": {
-    "Female": [
-      "Sunita",
-      "Sushma",
-      "Neelam",
-      "Parveen",
-      "Santosh",
-      "Asha",
-      "Kanta",
-      "Bimla",
-      "Fatima",
-      "Anita"
-    ],
-    "Male": [
-      "Mohammed",
-      "Abdul",
-      "Mohammad",
-      "Ghulam",
-      "Bashir",
-      "Nazir",
-      "Mushtaq",
-      "Raj",
-      "Manzoor",
-      "Ram"
     ]
   },
   "JPN": {
@@ -5535,6 +5457,32 @@
       "Patrick",
       "Samuel",
       "Tafadzwa"
+    ]
+  },
+  "VAT": {
+    "Female": [
+      "Alessandra",
+      "Barbara",
+      "Charlotte",
+      "Francesca",
+      "Marija",
+      "Nathalie",
+      "Raffaella",
+      "Roberta",
+      "Simona",
+      "Stefania"
+    ],
+    "Male": [
+      "Alexander",
+      "Benedict",
+      "Clement",
+      "Gregory",
+      "Innocent",
+      "John",
+      "Leo",
+      "Pius",
+      "Stephen",
+      "Urban"
     ]
   }
 }
