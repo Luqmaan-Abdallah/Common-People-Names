@@ -2159,6 +2159,32 @@
             "Kelvin"
         ]
     },
+    "South Korea": {
+        "Female": [
+            "Seo-Yun",
+            "Seo-Yeon",
+            "Ha-Yun",
+            "Ha-Eun",
+            "Ji-Yu",
+            "Chae-Won",
+            "Da-Eun",
+            "Ye-Eun",
+            "Ye-Won",
+            "So-yul"
+        ],
+        "Male": [
+            "Min-Jun",
+            "Seo-Jun",
+            "Ye-jun",
+            "Do-Yun",
+            "Ha-Jun",
+            "Jun-Seo",
+            "Jun-U",
+            "Hyeon-u",
+            "Do-Hyeon",
+            "Ji-Hun"
+        ]
+    },
     "Kosovo": {
         "Female": [
             "Fatime",
